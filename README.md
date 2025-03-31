@@ -48,6 +48,7 @@ BasicSlideApplicationGUI/
 │   │-- Main.java
 │   │-- MainController.java
 │-- src/main/resources/sample/
+|-- |-- Images
 │   │-- sample.fxml
 │   │-- styles.css
 │-- pom.xml
